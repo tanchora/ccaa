@@ -1,5 +1,5 @@
 # ccaa
-Comprehensive computerized asset accounting 
+Comprehensive computerized asset account processing and management
 
 
 Репозиторий содержит схемы и функциональные требования необходимые для реализации проекта комплексной автоматизации учета материалов с использованием 1С: Инвентаризация и управление имуществом 
